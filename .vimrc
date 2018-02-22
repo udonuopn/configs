@@ -34,3 +34,6 @@ set whichwrap=b,s,[,],<,>
 "クリップボード共有
 set clipboard&
 set clipboard^=unnamedplus
+
+"コメント行をグレーに
+hi Comment ctermfg=gray
