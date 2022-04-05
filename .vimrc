@@ -1,5 +1,8 @@
 syntax on
 
+"行番号を表示
+set number
+
 "1文字先まで範囲選択
 set virtualedit=onemore
 
@@ -14,6 +17,9 @@ set wildmode=list:longest
 
 "タブのスペース数
 set tabstop=4
+set autoindent
+set expandtab
+set shiftwidth=4
 
 "一番下まで検索したら一番上に戻る
 set wrapscan
