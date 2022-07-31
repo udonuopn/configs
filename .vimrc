@@ -65,7 +65,7 @@ hi NonText         term=bold ctermfg=12 gui=bold guifg=Blue
 hi Directory       term=bold ctermfg=4 guifg=Blue
 hi ErrorMsg        term=standout ctermfg=15 ctermbg=1 guifg=White guibg=Red
 hi IncSearch       term=reverse cterm=reverse gui=reverse
-hi Search          term=reverse ctermbg=11 guibg=Yellow
+hi Search          term=reverse ctermbg=3 guibg=Yellow
 hi MoreMsg         term=bold ctermfg=2 gui=bold guifg=SeaGreen
 hi ModeMsg         term=bold cterm=bold gui=bold
 hi clear LineNr          
